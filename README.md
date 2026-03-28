@@ -7,7 +7,7 @@
 > <a href="https://lukeb.co/powerbi-project1" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
 
 
-## Introduction
+## The Project Overview
 
 This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a real-world dataset of 2024 data science job postings (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation.
 
@@ -51,4 +51,7 @@ This is the deep-dive page. From the main dashboard, you can drill through to th
 ## Conclusion
 
 This dashboard showcases how Power BI can transform raw job posting data into a powerful tool for career analysis. It allows users to slice, filter, and drill through data to make informed decisions about their career paths.
+## Author
+Daniel Oluwasegun Ogunfadewo
+Business and Development Analyst.
 
